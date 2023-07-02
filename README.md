@@ -1,4 +1,4 @@
-# real_cosmetics
+# kamilove_bot
 Бот для продажи косметики
 
 ## Setup
@@ -6,13 +6,13 @@
 1. Клонируем проект 
 
     ```bash
-    git clone https://github.com/rasulovdd/real_cosmetics.git
-    cd real_cosmetics
+    git clone https://github.com/rasulovdd/kamilove_bot.git
+    cd kamilove_bot
     ```
     ssh
     ```bash
-    git clone git@github.com:rasulovdd/real_cosmetics.git
-    cd real_cosmetics
+    git clone git@github.com:rasulovdd/kamilove_bot.git
+    cd kamilove_bot
     ```
 
 2. Установка вертуального окружения для проекта
